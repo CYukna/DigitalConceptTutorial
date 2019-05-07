@@ -3,4 +3,6 @@
 
 
 
-[<Previous](README.md)         [Continue>](MarkdownGuide.md)
+[<Previous](README.md)         
+
+[Continue>](MarkdownGuide.md)
