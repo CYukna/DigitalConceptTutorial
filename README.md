@@ -1,4 +1,4 @@
-# DigitalConceptTutorial
+# Getting to Know GitHub Tutorial: The Basics
 
 ###### Author: Connor Yukna
 
