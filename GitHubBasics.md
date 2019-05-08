@@ -4,6 +4,6 @@
 
 
     
-[Continue>](MarkdownGuide.md)
+[Continue>](SetUp.md)
 
 [<Previous](README.md)     
