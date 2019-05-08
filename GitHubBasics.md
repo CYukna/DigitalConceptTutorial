@@ -1,4 +1,4 @@
-## Guide to Cloning a Repository
+## GitHub Background Information
 
 
 
