@@ -3,4 +3,4 @@
 
 [Back to Home Page](README.md)
 
-[<Previous](GettingStarted.md)
+[<Previous](SetUp.md)
