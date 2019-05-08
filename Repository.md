@@ -1,6 +1,6 @@
 ## Creating a Repository
 
 
-[Continue>](PushFileToRepository.md)
+[Continue >](PushFileToRepository.md)
 
-[<Previous](SetUp.md)
+[< Previous](SetUp.md)
