@@ -3,6 +3,6 @@
 
 
 
-[Continue>](Repository.md)
+[Continue >](Repository.md)
 
-[<Previous](GitHubBasics.md)
+[< Previous](GitHubBasics.md)
