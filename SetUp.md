@@ -5,4 +5,4 @@
 
 [Continue>](Repository.md)
 
-[<Previous](CloningRepository.md)
+[<Previous](GitHubBasics.md)
