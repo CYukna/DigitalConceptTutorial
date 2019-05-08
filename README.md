@@ -4,7 +4,7 @@
 
 ### Overview
 
-This tutorial is focusing on the basics of GitHub. The basics covered will consist of a brief background on GitHub, setting up a GitHub account, creating a repository, and finally using the command line to commit changes in your GitHub repository. The concepts covered are essential for success in introductory technology courses and crucial if you plan on pursuing the technology industry. 
+This tutorial is focusing on the basics of GitHub. The basics covered will consist of a brief background of GitHub, setting up a GitHub account, creating a repository, and finally using the command line to commit changes in your GitHub repository. The concepts covered are essential for success in introductory technology courses and crucial if you plan on pursuing the technology industry. 
 
 ### Target Audience
 
