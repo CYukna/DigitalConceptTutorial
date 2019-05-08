@@ -1,5 +1,7 @@
 # DigitalConceptTutorial
 
+###### Author: Connor Yukna
+
 ### Overview
 
 This tutorial is focusing on the basics of GitHub. The basics covered will consist of a brief background on GitHub, setting up a GitHub account, creating a repository, and finally using the command line to commit changes in your GitHub repository. 
