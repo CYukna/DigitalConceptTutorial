@@ -12,4 +12,4 @@ The target audience for this tutorial ranges from students new to the GitHub pla
 
 
 
-[Continue>](GitHubBasics.md)
+[Let's get started! >](GitHubBasics.md)
