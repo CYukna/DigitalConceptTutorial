@@ -4,6 +4,9 @@ A repository is essentially a folder or storage space where your GitHub projects
 
 Below I will walk through how to create a repository:
 
+##### Step 1:
+There will be a "+" in the top right corner of your accounts main screen. Click the pull down menu and select "Create repository"
+
 <img width="289" alt="Screen Shot 2019-05-09 at 5 37 41 PM" src="https://user-images.githubusercontent.com/42652935/57491201-7c1af580-7281-11e9-859d-29854e5f3c3e.png">
 
 <img width="791" alt="Screen Shot 2019-05-09 at 5 39 03 PM" src="https://user-images.githubusercontent.com/42652935/57491216-8806b780-7281-11e9-94a9-c2ea93f8d597.png">
