@@ -22,7 +22,7 @@ Here you can either chose to make your repository public or private. A public re
 <img width="738" alt="Screen Shot 2019-05-09 at 5 39 13 PM" src="https://user-images.githubusercontent.com/42652935/57491209-82a96d00-7281-11e9-990a-4b92e5fc2481.png">
 
 #### Step 4:
-More often than not you are going to want to "initialize the repository with README.md". Good documentation is key to a successful start to your project. README files are the first file shown in your repository and consists of the title of your repo at the top followed by the description you input. 
+More often than not you are going to want to "initialize the repository with "README.md". Good documentation is key to a successful start to your project. README files are the first file shown in your repository and consists of the title of your repo at the top followed by the description you input. 
 
 README files are easy to modify and is a quick way to add a description or basic information about your project. 
 
