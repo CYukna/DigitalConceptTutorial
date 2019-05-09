@@ -28,6 +28,10 @@ README files are easy to modify and is a quick way to add a description or basic
 
 <img width="748" alt="Screen Shot 2019-05-09 at 5 39 21 PM" src="https://user-images.githubusercontent.com/42652935/57491206-7fae7c80-7281-11e9-93f3-84454b249e42.png">
 
+Finally, you should be left with a repository similar to this one. Your title name and description should obviously be what you inputed. Notice that the README.md file shows the repo title and the description like I stated previously.
+
+<img width="1067" alt="Screen Shot 2019-05-09 at 6 08 34 PM" src="https://user-images.githubusercontent.com/42652935/57492211-9a82f000-7285-11e9-884f-42148b76dc2d.png">
+
 Congrats! You have created a repository. Continue to learn how to input files through Terminal into your new repository. 
 
 [Continue >](PushFileToRepository.md)
