@@ -8,6 +8,8 @@ Below I will walk through how to create a repository:
 
 <img width="791" alt="Screen Shot 2019-05-09 at 5 39 03 PM" src="https://user-images.githubusercontent.com/42652935/57491216-8806b780-7281-11e9-94a9-c2ea93f8d597.png">
 
+<img width="738" alt="Screen Shot 2019-05-09 at 5 39 13 PM" src="https://user-images.githubusercontent.com/42652935/57491209-82a96d00-7281-11e9-990a-4b92e5fc2481.png">
+
 <img width="748" alt="Screen Shot 2019-05-09 at 5 39 21 PM" src="https://user-images.githubusercontent.com/42652935/57491206-7fae7c80-7281-11e9-93f3-84454b249e42.png">
 
 [Continue >](PushFileToRepository.md)
