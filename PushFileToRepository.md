@@ -7,6 +7,12 @@ First we must clone the repository URL to our local system (Terminal). This can 
 
 <img width="1071" alt="Screen Shot 2019-05-09 at 6 35 14 PM" src="https://user-images.githubusercontent.com/42652935/57493237-b8525400-7289-11e9-9945-4ccc30652c6c.png">
 
+#### Step 2
+Next we need to clone the GitHub repository you have created to our local computer. Here we will be using the git command "git clone". This command creates a new directory and has remote-tracking ability in the cloned repository. For the sake of this tutorial, I have cloned my "Hello-World" repo to my desktop as shown below:
+
+"cd" is a terminal command that allows me to open up my desktop file on my Mac to allow for the repo to be cloned to. 
+
+
 
 
 
