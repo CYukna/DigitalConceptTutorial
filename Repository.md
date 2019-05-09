@@ -32,7 +32,7 @@ Finally, you should be left with a repository similar to this one. Your title na
 
 <img width="1067" alt="Screen Shot 2019-05-09 at 6 08 34 PM" src="https://user-images.githubusercontent.com/42652935/57492211-9a82f000-7285-11e9-884f-42148b76dc2d.png">
 
-Congrats! You have created a repository. Continue to learn how to input files through Terminal into your new repository. 
+Congrats! :smiley: You have created a repository. :sunglasses: Continue to learn how to input files through Terminal into your new repository. 
 
 [Continue >](PushFileToRepository.md)
 
