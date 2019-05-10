@@ -1,6 +1,6 @@
 ## Using the Command Line
 
-Below I will be discussing how to clone a repository on your MacOS computer, edit it, and push the file back into your new GitHub repository. 
+Below I will be discussing how to clone a repository on your MacOS computer, edit it locally, and push the file back into your new GitHub repository. 
 
 #### Step 1
 First we must clone the repository URL to our local system (Terminal). This can be down by clicking the green "Clone or download" drop down menu and clicking on the notebook icon as shown:
