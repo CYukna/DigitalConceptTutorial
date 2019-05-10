@@ -27,6 +27,9 @@ Below I will perform the git command "git status". I have edited the README.md f
 
 <img width="537" alt="Screen Shot 2019-05-09 at 7 20 31 PM" src="https://user-images.githubusercontent.com/42652935/57494715-3dd90280-7290-11e9-89bb-5e7d556fbea8.png">
 
+#### Step 5
+At this point the file has been edited, but needs to be staged for a commit to be cloned back into our GitHub repositories. To perform a push we will use the git command "git add" with the "READ.md" file following (shown below). Now, when we check the status of our file modifications, you can tell it is staged and ready for a commit. (green text)
+
 
 
 
