@@ -45,8 +45,11 @@ The modifications have been commited to the README.md file on your local compute
 #### Step 8
 Refresh your GitHub repository and it should look as follows:
 
+<img width="1045" alt="Screen Shot 2019-05-09 at 7 22 30 PM" src="https://user-images.githubusercontent.com/42652935/57495209-b80a8680-7292-11e9-862d-11898124bbe3.png">
 
+As you can see, the edit from the TextEditor shown above has translated into my GitHub repository. You can also notice the "First commit" message we wrote along side the "git commit" shows the updated README.md file. 
 
+Congragulations on excellent work! You have learned the basics and can expand your knowledge on the vast and ever-growing world of technology.
 
 
 
