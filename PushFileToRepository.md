@@ -25,6 +25,8 @@ To be edited, I converted the Hello-World file into a text editor. I added a lit
 #### Step 4 
 Below I will perform the git command "git status". I have edited the README.md file at this point. Terminal knows that the file has been modified but not yet added back to the README.md file stored on Desktop. (Hence the red text)
 
+<img width="537" alt="Screen Shot 2019-05-09 at 7 20 31 PM" src="https://user-images.githubusercontent.com/42652935/57494715-3dd90280-7290-11e9-89bb-5e7d556fbea8.png">
+
 
 
 
