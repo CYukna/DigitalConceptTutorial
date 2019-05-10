@@ -18,7 +18,13 @@ Next, we need to clone the GitHub repository you have created to our local compu
 Hello-World folder shows up in my desktop and is available to be edited. 
 
 #### Step 3
-To be edited, I converted the Hello-World file into a text editor. I added a little note to show a before and after in the "Hello-World" repository I created. 
+To be edited, I converted the Hello-World file into a text editor. I added a little note to show a before and after in the "Hello-World" repository I created.
+
+<img width="636" alt="Screen Shot 2019-05-09 at 7 01 30 PM" src="https://user-images.githubusercontent.com/42652935/57494714-3b76a880-7290-11e9-89a6-ba95a7396d66.png">
+
+#### Step 4 
+Below I will perform the git command "git status". I have edited the README.md file at this point. Terminal knows that the file has been modified but not yet added back to the README.md file stored on Desktop. (Hence the red text)
+
 
 
 
