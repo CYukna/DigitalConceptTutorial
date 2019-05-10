@@ -30,6 +30,10 @@ Below I will perform the git command "git status". I have edited the README.md f
 #### Step 5
 At this point the file has been edited, but needs to be staged for a commit to be cloned back into our GitHub repositories. To perform a push we will use the git command "git add" with the "READ.md" file following (shown below). Now, when we check the status of our file modifications, you can tell it is staged and ready for a commit. (green text)
 
+<img width="454" alt="Screen Shot 2019-05-09 at 7 21 30 PM" src="https://user-images.githubusercontent.com/42652935/57494718-40d3f300-7290-11e9-9be9-24584432c9ee.png">
+
+#### Step 6
+The README.md has been modified on my local computer, staged using "git add", and is now ready for the changes to be committed. Along with the "git commit" command, we will add a message using "-m" shown below. The message allows for users to keep track of commits when there are numerous files being cloned into repositories. 
 
 
 
