@@ -35,6 +35,10 @@ At this point the file has been edited, but needs to be staged for a commit to b
 #### Step 6
 The README.md has been modified on my local computer, staged using "git add", and is now ready for the changes to be committed. Along with the "git commit" command, we will add a message using "-m" shown below. The message allows for users to keep track of commits when there are numerous files being cloned into repositories. 
 
+<img width="459" alt="Screen Shot 2019-05-09 at 7 21 50 PM" src="https://user-images.githubusercontent.com/42652935/57494722-43cee380-7290-11e9-8ecc-c7d611ebd850.png">
+
+#### Step 7
+The modifications have been commited to the README.md file on your local computer. The only thing left to do is push the commit back into your GitHub repository. To do this, we will use the "git push" command as follows. 
 
 
 
