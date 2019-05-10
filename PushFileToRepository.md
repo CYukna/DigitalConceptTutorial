@@ -40,6 +40,11 @@ The README.md has been modified on my local computer, staged using "git add", an
 #### Step 7
 The modifications have been commited to the README.md file on your local computer. The only thing left to do is push the commit back into your GitHub repository. To do this, we will use the "git push" command as follows. 
 
+<img width="314" alt="Screen Shot 2019-05-09 at 7 22 06 PM" src="https://user-images.githubusercontent.com/42652935/57494724-4598a700-7290-11e9-9958-e42924737502.png">
+
+#### Step 8
+Refresh your GitHub repository and it should look as follows:
+
 
 
 
